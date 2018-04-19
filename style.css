@@ -1,0 +1,23 @@
+
+img.small {
+    height: 64px;
+    width: 64px;
+  }
+  .highlight{
+    color: limegreen;
+  }
+  .panel{
+  
+  }
+  .borders{
+    border: 1px solid lightblue;
+   
+  }
+  .borders:hover{
+    background-color: lightblue;
+  }
+  .sub
+  {
+    font-size:10px;
+  }
+  
